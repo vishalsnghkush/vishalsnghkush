@@ -4,9 +4,8 @@
 </div>
 
 <br>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vishalsnghkush/vishalsnghkush/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Skyline" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/vishalsnghkush/vishalsnghkush/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" style="max-width: 100%;" />
 </div>
 
 <br>
