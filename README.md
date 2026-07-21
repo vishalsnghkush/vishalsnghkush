@@ -1,6 +1,6 @@
-<!-- Typewriter Header -->
+<!-- Retro Pixel Typewriter Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=750&height=130&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Kushwaha;B.Tech+CSE+(AI+%26+ML)+%40+University+of+Delhi+(CGPA%3A+8.6%2F10);Mobile+App+Developer+Intern+%40+StudifySuccess+%7C+Open+Source+Contributor+(GSSoC)" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&multiline=true&width=800&height=140&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Kushwaha;B.Tech+CSE+(AI+%26+ML)+%40+University+of+Delhi+(CGPA%3A+8.6%2F10);Mobile+App+Developer+Intern+%40+StudifySuccess+%7C+GSSoC+'25" alt="Retro Typing Header" />
 </div>
 
 <br>
