@@ -1,7 +1,8 @@
-<!-- Retro Terminal Typewriter Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF66&center=false&vCenter=false&multiline=true&width=650&height=140&lines=system.init(%22Vishal_Kushwaha%22)%3B;%3E+B.Tech+CSE+(AI+%26+ML)+%40+University+of+Delhi;%3E+Mobile+App+Developer+Intern+%40+StudifySuccess;%3E+Open+Source+Contributor+%40+GSSoC+'25;%3E+200%2B+LeetCode+Problems+Solved+%7C+CGPA%3A+8.6" alt="Retro Terminal Typist" />
-</div>
+<h1 align="center">Hi 👋, I'm Vishal Kushwaha</h1>
+<p align="center">
+  <strong>B.Tech CSE (AI & ML) @ University of Delhi (CGPA: 8.6/10)</strong><br>
+  Mobile App Developer Intern @ StudifySuccess | Open Source Contributor (GSSoC '25)
+</p>
 
 <br>
 
