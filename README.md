@@ -12,13 +12,6 @@
 
 <br>
 
-<div align="center">
-  <!-- #2 GitHub Trophy Bar -->
-  <img src="https://github-profile-trophy.vercel.app/?username=vishalsnghkush&theme=darkhub&no-frame=true&column=6" alt="GitHub Trophies" />
-</div>
-
-<br>
-
 ### 📊 Profile Views :-
 [![Profile views](https://komarev.com/ghpvc/?username=vishalsnghkush&color=007ec6)](https://github.com/vishalsnghkush)
 
@@ -96,11 +89,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsnghkush&theme=dark&background=0d1117" alt="GitHub Streak" />
-</p>
-
-<br>
-
-<p align="center">
-  <!-- #3 WakaTime Coding Activity -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vishalsnghkush&theme=dark" alt="WakaTime Stats" />
 </p>
