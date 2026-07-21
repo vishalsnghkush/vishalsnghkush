@@ -7,8 +7,8 @@
 <br>
 
 <div align="center">
-  <!-- Dynamic Snake Contribution Animation -->
-  <img src="https://raw.githubusercontent.com/vishalsnghkush/vishalsnghkush/main/grid-snake.svg" alt="Snake animation" style="max-width: 100%;" />
+  <!-- Live Snake Contribution Animation -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Snake Animation" />
 </div>
 
 <br>
@@ -24,7 +24,7 @@
 - 🏆 **Open Source:** Open Source Contributor at **GirlScript Summer of Code (GSSoC '25)**.
 - ⚡ **Achievement:** 200+ DSA problems solved on LeetCode | 2nd Runner-Up in Offline CP Contest @ DU.
 - 📬 **Contact:** [vishalsnghkush31@gmail.com](mailto:vishalsnghkush31@gmail.com)
-- 💼 **LinkedIn:** [vishal-kushwaha-253891275](https://www.linkedin.com/in/vishal-kushwaha-253891275/)
+- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/vishal-kushwaha-253891275/)
 
 ---
 
@@ -79,13 +79,9 @@
 ### 📈 Statistical Data :-
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsnghkush&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalsnghkush&theme=github-dark" alt="Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalsnghkush&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsnghkush&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=vishalsnghkush&theme=dark" alt="GitHub Streak" />
 </p>
