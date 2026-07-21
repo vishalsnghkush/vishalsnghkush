@@ -28,7 +28,7 @@
 
 ---
 
-### 🚀 Featured Projects :-
+### 🚀 Projects :-
 
 - 📱 **[StudifyApp](https://play.google.com/store/apps/details?id=com.studifysuccess.courses)**
   - *Tech:* React Native, JavaScript, Cross-Platform (Android & iOS)
