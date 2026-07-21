@@ -1,11 +1,6 @@
-<!-- Waving Capsule Gradient Header -->
+<!-- Retro Terminal Typewriter Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=200&section=header&text=Vishal%20Kushwaha&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
-</div>
-
-<!-- Animated Typing Subtitle -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+%40+University+of+Delhi;Mobile+App+Developer+Intern+%40+StudifySuccess;Open+Source+Contributor+%40+GSSoC+'25;LeetCode+200%2B+Problems+Solved+%F0%9F%A7%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF66&center=false&vCenter=false&multiline=true&width=650&height=140&lines=system.init(%22Vishal_Kushwaha%22)%3B;%3E+B.Tech+CSE+(AI+%26+ML)+%40+University+of+Delhi;%3E+Mobile+App+Developer+Intern+%40+StudifySuccess;%3E+Open+Source+Contributor+%40+GSSoC+'25;%3E+200%2B+LeetCode+Problems+Solved+%7C+CGPA%3A+8.6" alt="Retro Terminal Typist" />
 </div>
 
 <br>
