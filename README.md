@@ -28,9 +28,9 @@
 
 ---
 
-### 🚀 Projects :-
+### 🚀 Featured Projects :-
 
-- 📱 **StudifyApp**
+- 📱 **[StudifyApp](https://play.google.com/store/apps/details?id=com.studifysuccess.courses)**
   - *Tech:* React Native, JavaScript, Cross-Platform (Android & iOS)
   - Architected and developed cross-platform mobile application features for StudifySuccess to enhance user engagement, UI responsiveness, and smooth navigation.
 
@@ -86,6 +86,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalsnghkush&theme=github-dark" alt="Activity Graph" width="100%" />
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vishalsnghkush&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsnghkush&theme=dark&background=0d1117" alt="GitHub Streak" />
 </p>
