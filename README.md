@@ -1,6 +1,6 @@
-<!-- Retro Pixel Typewriter Header (Non-looping) -->
+<!-- Fast Retro Pixel Typewriter Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=00FF66&center=true&vCenter=true&multiline=true&width=850&height=140&repeat=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Kushwaha;B.Tech+CSE+(AI+%26+ML)+%40+University+of+Delhi;Mobile+App+Developer+Intern+%40+StudifySuccess" alt="Retro Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1500&pause=500&color=00FF66&center=true&vCenter=true&multiline=true&width=850&height=140&repeat=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Kushwaha;B.Tech+CSE+(AI+%26+ML)+%40+University+of+Delhi;Mobile+App+Developer+Intern+%40+StudifySuccess" alt="Retro Typing Header" />
 </div>
 
 <br>
