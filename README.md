@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Vishal Kushwaha</h1>
-<p align="center">
-  <strong>B.Tech CSE (AI & ML) @ University of Delhi (CGPA: 8.6/10)</strong><br>
-  Mobile App Developer Intern @ StudifySuccess | Open Source Contributor (GSSoC)
-</p>
+<!-- Typewriter Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=750&height=130&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Kushwaha;B.Tech+CSE+(AI+%26+ML)+%40+University+of+Delhi+(CGPA%3A+8.6%2F10);Mobile+App+Developer+Intern+%40+StudifySuccess+%7C+Open+Source+Contributor+(GSSoC)" alt="Typing Header" />
+</div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vishalsnghkush/vishalsnghkush/main/grid-snake.svg" alt="Contribution Snake" style="max-width: 100%;" />
+  <!-- Contribution Grid Snake Animation -->
+  <img src="https://raw.githubusercontent.com/vishalsnghkush/vishalsnghkush/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" style="max-width: 100%;" />
 </div>
 
 <br>
