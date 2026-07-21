@@ -19,14 +19,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate grid-snake.svg
+      - name: Generate contribution grid snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            grid-snake.svg?palette=github-dark
+            github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push grid-snake.svg
+      - name: Push snake svg
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: main
