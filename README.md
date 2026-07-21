@@ -87,5 +87,5 @@
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aditi-malviya666&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditi-malviya666&theme=2077" alt="GitHub Stats Summary" />
 </p>
