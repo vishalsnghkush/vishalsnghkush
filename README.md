@@ -28,7 +28,11 @@
 
 ---
 
-### 🚀 Featured Projects :-
+### 🚀 Projects :-
+
+- 📱 **StudifyApp**
+  - *Tech:* React Native, JavaScript, Cross-Platform (Android & iOS)
+  - Architected and developed cross-platform mobile application features for StudifySuccess to enhance user engagement, UI responsiveness, and smooth navigation.
 
 - 🌿 **[Plant Leaf Disease Detection Using Federated Learning](https://agriverse-farmer.onrender.com)**
   - *Tech:* Federated Learning, TensorFlow, MobileNetV3, Pandas
