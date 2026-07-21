@@ -1,15 +1,21 @@
-<!-- Retro Pixel Typewriter Header (Non-looping) -->
+<!-- Retro Pixel Typewriter Header -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=00FF66&center=true&vCenter=true&multiline=true&width=850&height=140&repeat=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Kushwaha;B.Tech+CSE+(AI+%26+ML)+%40+University+of+Delhi;Mobile+App+Developer+Intern+%40+StudifySuccess" alt="Retro Typing Header" />
 </div>
 
 <br>
-<br>
+
 <div align="center">
+  <!-- Contribution Grid Snake Animation -->
   <img src="https://raw.githubusercontent.com/vishalsnghkush/vishalsnghkush/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" style="max-width: 100%;" />
 </div>
 
 <br>
+
+<div align="center">
+  <!-- GitHub Trophies Bar -->
+  <img src="https://github-profile-trophy.vercel.app/?username=vishalsnghkush&theme=darkhub&no-frame=true&column=6" alt="GitHub Trophies" />
+</div>
 
 <br>
 
@@ -90,4 +96,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsnghkush&theme=dark&background=0d1117" alt="GitHub Streak" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vishalsnghkush&theme=dark" alt="WakaTime Stats" />
 </p>
