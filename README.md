@@ -7,8 +7,7 @@
 <br>
 
 <div align="center">
-  <!-- Live Snake Contribution Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/vishalsnghkush/vishalsnghkush/main/grid-snake.svg" alt="Contribution Snake" style="max-width: 100%;" />
 </div>
 
 <br>
@@ -28,7 +27,7 @@
 
 ---
 
-### 🚀 Projects :-
+### 🚀 Featured Projects :-
 
 - 📱 **[StudifyApp](https://play.google.com/store/apps/details?id=com.studifysuccess.courses)**
   - *Tech:* React Native, JavaScript, Cross-Platform (Android & iOS)
