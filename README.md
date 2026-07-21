@@ -4,9 +4,15 @@
 </div>
 
 <br>
+<br>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vishalsnghkush/vishalsnghkush/main/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" style="max-width: 100%;" />
+  <a href="https://honzaap.github.io/GithubCity/?name=vishalsnghkush" target="_blank">
+    <img src="https://img.shields.io/badge/🏙️_Explore_My_Interactive_3D_GitCity-00FF66?style=for-the-badge&logo=github&logoColor=black" alt="GitCity 3D Explorer" />
+  </a>
 </div>
+
+<br>
 
 <br>
 
